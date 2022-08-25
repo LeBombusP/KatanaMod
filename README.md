@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Katana Mod
+Adds katanas to minecraft.
 
-## Setup
+Katanas are easier make less damage than swords, but they make more damage and have shorter cooldown.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Additionally, it adds new enchantment - "Quick Cut" that ~~even more shortens cooldown~~ currently does nothing.  * *work in progress* *
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+##License 
+CC0 - Feel free to incorporate it in your own projects.
