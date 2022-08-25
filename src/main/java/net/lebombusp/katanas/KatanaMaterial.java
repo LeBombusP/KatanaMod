@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package net.lebombusp.katanas;
 
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
